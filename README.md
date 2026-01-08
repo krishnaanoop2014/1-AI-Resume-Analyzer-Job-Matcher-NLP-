@@ -50,3 +50,8 @@ Sample text files are provided in the `data/` folder.
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+---
+⚠️ Deployment Note:
+This application runs locally. Deployment may require environment-specific dependency handling.
+
