@@ -1,0 +1,10 @@
+
+---
+
+#author: Krishna Anoop
+
+```txt
+streamlit
+scikit-learn
+numpy
+pandas
